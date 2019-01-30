@@ -1,5 +1,5 @@
 # SSGF-for-HRRS-scene-classification
-experimental codes for "A semi-supervised generative framework with deep learning features for high-resolution remote sensing image scene classification"
+Code to replicate the analyses from the paper [A semi-supervised generative framework with deep learning features for high-resolution remote sensing image scene classification](https://www.sciencedirect.com/science/article/abs/pii/S0924271617303428)
  
 Datasets
 ===================================  
