@@ -1,9 +1,9 @@
 # SSGF-for-HRRS-scene-classification
 experimental codes for "A semi-supervised generative framework with deep learning features for high-resolution remote sensing image scene classification"
-===================================  
+ 
 Datasets
 ===================================  
------------------------------------  
+  
 The datasets used in the work is UCM, WHU-RS19, NWPU-RESISC45, and AID
 -----------------------------------  
 1 UCM
@@ -15,7 +15,7 @@ The datasets used in the work is UCM, WHU-RS19, NWPU-RESISC45, and AID
 4 AID
 ![AID](https://github.com/weihancug/SSGF-for-HRRS-scene-classification/blob/master/AID-dataset.png)
 
-===================================  
+ 
 Illustration of code
 ===================================  
 
