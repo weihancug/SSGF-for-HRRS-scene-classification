@@ -19,11 +19,11 @@ The datasets used in the work is UCM, WHU-RS19, NWPU-RESISC45, and AID
 Illustration of code
 ===================================  
 
-1. selftraining.py is the implenmtation of selftraining method by using one pre-trained CNN model.\
+1. selftraining.py is the implenmtation of selftraining method by using one pre-trained CNN model.
 
-2. co-training.py is the cotraining method, wherein two kind of deep features are utilized.\
+2. co-training.py is the cotraining method, wherein two kind of deep features are utilized.
 
-3. Comparision.py is the comparison methods.\
+3. Comparision.py is the comparison methods.
 
 4. plot_confusion_matrix.py is to draw the confusion matrix.
 
