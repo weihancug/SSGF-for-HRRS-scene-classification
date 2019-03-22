@@ -1,0 +1,16 @@
+net: "/home/hpc-126/caffe-master/models/resnet_50/resnet_50_finetuning.prototxt"
+test_iter: 6300
+test_interval: 3000
+test_initialization: false
+display: 200
+average_loss: 40
+base_lr: 0.005
+lr_policy: "step"
+stepsize: 15000
+gamma: 0.96
+max_iter: 30000
+momentum: 0.9
+weight_decay: 0.0001
+snapshot: 4000
+snapshot_prefix: "resnet_50_finetuing"
+solver_mode: GPU
